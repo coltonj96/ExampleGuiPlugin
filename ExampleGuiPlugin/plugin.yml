@@ -1,0 +1,5 @@
+name: ExampleGuiPlugin
+author: 'Colton Griswold'
+main: com.aim.coltonjgriswold.egp.ExampleGuiPlugin
+version: 0.0.1
+depend: [SimpleGuiApi]
